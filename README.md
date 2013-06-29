@@ -21,3 +21,7 @@ First you have to rename conf.js.sample into conf.js and type your tumblr creden
 ```shell
 tupp -t /path/to/jpeg
 ```
+
+## Changelog
+
+0.0.2 tupp is executable and lost its js extension !

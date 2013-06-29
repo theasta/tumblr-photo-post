@@ -1,7 +1,7 @@
 {
   "name": "tumblr-photo-post",
   "description": "A cli tool to create a tumblr photo post",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Alexandrine Boissière",
     "email": "theasta@gmail.com"
