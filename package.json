@@ -1,5 +1,5 @@
 {
-  "name": "Tumblr-Photo-Post",
+  "name": "tumblr-photo-post",
   "description": "A cli tool to create a tumblr photo post",
   "version": "0.0.1",
   "author": {
