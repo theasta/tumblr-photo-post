@@ -6,7 +6,13 @@
     "name": "Alexandrine Boissière",
     "email": "theasta@gmail.com"
   },
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theasta/tumblr-photo-post.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theasta/tumblr-photo-post/issues"
+  },
   "dependencies": {
     "exif2": "~0.0.1",
     "tumblrwks": "~0.1.1",
@@ -18,5 +24,8 @@
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-watch": "~0.4.4"
-  }
+  },
+  "keywords": [
+    "tumblr"
+  ]
 }
