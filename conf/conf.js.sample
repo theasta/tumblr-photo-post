@@ -1,0 +1,7 @@
+module.exports = {
+  'consumerKey': '<your-tumblr-consumer-key',
+  'consumerSecret': '<your-tumblr-consumer-secret>',
+  'token': '<your-tumblr-token>',
+  'token_secret': '<your-tumblr-token-secret>',
+  'blog': '<your-blog.tumblr.com>'
+};

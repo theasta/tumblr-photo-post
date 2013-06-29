@@ -1,0 +1,22 @@
+{
+  "name": "Tumblr-Photo-Post",
+  "description": "A cli tool to create a tumblr photo post",
+  "version": "0.0.1",
+  "author": {
+    "name": "Alexandrine Boissière",
+    "email": "theasta@gmail.com"
+  },
+  "private": true,
+  "dependencies": {
+    "exif2": "~0.0.1",
+    "tumblrwks": "~0.1.1",
+    "async": "~0.2.9",
+    "nopt": "~2.1.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.4"
+  }
+}
